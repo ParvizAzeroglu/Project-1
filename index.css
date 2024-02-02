@@ -1,0 +1,44 @@
+/* Test */
+
+:root {
+  --plain-black: #000000;
+
+  --dark: #333333;
+  --lush-green: #00a550;
+  --lush-green-alt: #4caf50;
+
+  --light-sage: #8bc34a;
+  --light-sage-alt: #c8e6c9;
+  --white: #ffffff;
+}
+
+* {
+  font-family: "Montserrat", sans-serif;
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: all 0.2s;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+body {
+  min-height: 100vh;
+  width: auto;
+  background-color: var(--dark);
+  height: -webkit-fill-available;
+  overflow-x: hidden;
+}

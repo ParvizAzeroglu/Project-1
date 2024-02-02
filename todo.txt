@@ -1,0 +1,5 @@
+Make Carousel for HOME Page
+ 
+Finish About page 
+
+Add text shadow 
