@@ -1,0 +1,15 @@
+      <div class="offcanvas">
+        <div class="offcanvas--toggle">
+          <button class="offcanvas--toggle__button" id="toggler">
+            Settings
+          </button>
+        </div>
+        <div class="offcanvas--body">
+          <h1 class="heading">Loreim</h1>
+          <p class="secondary">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum
+            explicabo facilis adipisci consequatur dolore similique quia neque
+            ipsa hic assumenda!
+          </p>
+        </div>
+      </div>
